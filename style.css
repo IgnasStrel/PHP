@@ -1,0 +1,13 @@
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+    border-spacing: 2px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+table{
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+font-family: "Comic Sans MS", cursive, sans-serif;
+}
